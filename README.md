@@ -5,6 +5,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![CI](https://github.com/asad110abbas/streamlit-kpi-dashboard/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 An interactive web dashboard for sales performance, built with **Streamlit** and **Plotly**. Filter by date range,
 region, product line and channel, and every KPI and chart updates instantly, with **period-over-period deltas**.
 
